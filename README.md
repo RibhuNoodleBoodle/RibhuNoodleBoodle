@@ -1,11 +1,15 @@
-<h1 align="center">Software Developer Ranjan Sengupta</h1>
+<h1 align="center">Developer Ranjan Sengupta</h1>
 <h3 align="center">Currently working in Indian Oil as a FullStack Developer</h3>
 
 - 🔭 I’m currently working on **internal projects on Indian Oil**
 
+- 👨‍💻 All of my projects are available at [https://github.com/RibhuNoodleBoodle/RibhuNoodleBoodle](https://github.com/RibhuNoodleBoodle/RibhuNoodleBoodle)
+
 - 💬 Ask me about **Angular, Spring, all sorts of DBMS!**
 
 - 📫 How to reach me **ranjansemail95@gmail.com**
+
+- 📄 Know about my experiences [RanjanSengupta_CV.pdf](RanjanSengupta_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
