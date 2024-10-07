@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ranjansemail95@gmail.com**
 
-- 📄 Know about my experiences [RanjanSengupta_CV.pdf](RanjanSengupta_CV.pdf)
+- 📄 [Know about my experiences](RanjanSengupta_CV.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
