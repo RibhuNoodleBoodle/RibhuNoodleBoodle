@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **internal projects on Indian Oil**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RibhuNoodleBoodle/RibhuNoodleBoodle](https://github.com/RibhuNoodleBoodle/RibhuNoodleBoodle)
+- 👨‍💻 [Here's a sample of my work](https://github.com/RibhuNoodleBoodle/TicketHunt)
 
 - 💬 Ask me about **Angular, Spring, all sorts of DBMS!**
 
