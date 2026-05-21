@@ -1,7 +1,7 @@
-<h1 align="center">Developer Ranjan Sengupta</h1>
-<h3 align="center">Currently working in Indian Oil as a FullStack Developer</h3>
+<h1 align="center">ForDeveloper Ranjan Sengupta</h1>
+<h3 align="center">Currently studying MBA</h3>
 
-- 🔭 I’m currently working on **internal projects on Indian Oil**
+- 🔭 I’m currently working on **changing my field to Data Analytics**
 
 - 👨‍💻 [Here's a sample of my work](https://github.com/RibhuNoodleBoodle/TicketHunt)
 
