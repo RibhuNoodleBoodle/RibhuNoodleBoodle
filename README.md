@@ -1,7 +1,7 @@
 <h1 align="center">ForDeveloper Ranjan Sengupta</h1>
 <h3 align="center">Currently studying MBA</h3>
 
-- 🔭 I’m currently working on **changing my field to Data Analytics**
+- 🔭 I’m currently working on **shifting my field to Data Analytics**
 
 - 👨‍💻 [Here's a sample of my work](https://github.com/RibhuNoodleBoodle/TicketHunt)
 
